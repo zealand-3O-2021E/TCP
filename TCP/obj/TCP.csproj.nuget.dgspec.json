@@ -1,27 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Paulina\\Documents\\Edem\\TCP\\TCP\\TCP.csproj": {}
+    "/Users/banan/Documents/Телеграм/Edem/TCP/TCP/TCP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Paulina\\Documents\\Edem\\TCP\\TCP\\TCP.csproj": {
+    "/Users/banan/Documents/Телеграм/Edem/TCP/TCP/TCP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Paulina\\Documents\\Edem\\TCP\\TCP\\TCP.csproj",
+        "projectUniqueName": "/Users/banan/Documents/Телеграм/Edem/TCP/TCP/TCP.csproj",
         "projectName": "TCP",
-        "projectPath": "C:\\Users\\Paulina\\Documents\\Edem\\TCP\\TCP\\TCP.csproj",
-        "packagesPath": "C:\\Users\\Paulina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Paulina\\Documents\\Edem\\TCP\\TCP\\obj\\",
+        "projectPath": "/Users/banan/Documents/Телеграм/Edem/TCP/TCP/TCP.csproj",
+        "packagesPath": "/Users/banan/.nuget/packages/",
+        "outputPath": "/Users/banan/Documents/Телеграм/Edem/TCP/TCP/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Paulina\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/banan/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }

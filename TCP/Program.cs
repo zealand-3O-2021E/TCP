@@ -10,7 +10,7 @@ namespace TCP
     {
         static void Main(string[] args)
         {
-            TcpListener listener = new TcpListener(IPAddress.Loopback, 4646);
+            TcpListener listener = new TcpListener(IPAddress.Any, 4646);
             listener.Start();
             Console.WriteLine("Server ready");
 
@@ -23,10 +23,9 @@ namespace TCP
                     Client(socket);
                 });
 
-               
-
 
             }
+            // ReSharper disable once FunctionNeverReturns
         }
         private static void Client(TcpClient socket)
         {
@@ -56,6 +55,7 @@ namespace TCP
                         break;
 
                 }
+                writer.Flush();
             }
         }
     }
