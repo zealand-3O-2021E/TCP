@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mrcx9orCxT+vx/KbKgCOuUmCncF8/T2p13DKdqANdcTqkNXPODoqwqNB6DIGsw1VhO4yJGJUlEKNsFXCebl1rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Paulina\\Documents\\Edem\\TCP\\TCP\\TCP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paulina\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
